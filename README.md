@@ -414,3 +414,5 @@ Companies contributing to Authelia via Open Collective will have a special menti
 [security]: https://github.com/authelia/authelia/security/policy
 [#support]: https://discord.com/channels/707844280412012608/707844280412012612
 [#contributing]: https://discord.com/channels/707844280412012608/804943261265297408
+
+...
